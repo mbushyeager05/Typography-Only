@@ -1,10 +1,11 @@
-# Web Starter
+# Typography Only For Apple Park
 
-> Computers are dumb. Humans make them smart.
 
-Starter (boilerplate) for all future projects.
+Apple Park, also known as Apple Campus 2, is the corporate headquarters of Apple Inc., located in Cupertino, California, United States.
 
-## Why Does This Exist?
-* Don't start with nothing
-* Common boilerplate for web projects
-* I am a human being who makes mistakes
+A web project to experiment with CSS typography.
+
+## CSS Concepts
+- Tyography
+- Box Model 
+- CSS Variables
