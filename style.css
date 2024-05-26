@@ -28,31 +28,35 @@ background: linear-gradient(to right, #F8FFAE, #43C6AC); /* W3C, IE 10+/ Edge, F
 }
 
 h1 {
-  color: #265D11;
+  color: var(--color2);
   text-align: left;
 }
 
 h2 {
-  color: #265D11;
+  color: var(--color2);
  
 }
 
 h3 {
-  color: #265D11;
+  color: var(--color2);
 }
 
 h4 {
-  color: #265D11;
+  color: var(--color2);
   
  
 }
 
+p{
+  color: var(--color1);
+}
+
 li{
-  color: #288BA8);
+  color: var(--color1) ;
 }
 
 blockquote{
-  border-left: solid 10px  #265D11;
+  border-left: solid 10px  var(--color2);
   padding-left: 12px;
 }
 
@@ -64,8 +68,8 @@ main{
 }
 
 span {
-  color: #43C6AC;
-  background: #288BA8;
+  color: var(--color4);
+  background: var(--color1);
   margin: 10px;
   padding: 10px;
 
@@ -81,7 +85,7 @@ main {
 
 /* Child */
 h1 {
-  background: #68B09A;
+  background: var(--color4);
   padding: 4px;
   top:18px;
   left: 0;
