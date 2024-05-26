@@ -4,9 +4,9 @@
 /*  ✅ Setup on Netlify*/
 /* [] CSS Variables*/
 
-/* @import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
 
-
+/* colors are not working */
 :root {
   --color1: #288BA8;
   --color2: #265D11;
@@ -28,35 +28,35 @@ background: linear-gradient(to right, #F8FFAE, #43C6AC); /* W3C, IE 10+/ Edge, F
 }
 
 h1 {
-  color: var(--color2);
+  color: #265D11;
   text-align: left;
 }
 
 h2 {
-  color: var(--color2);
+  color: #265D11;
  
 }
 
 h3 {
-  color: var(--color2);
+  color: #265D11;
 }
 
 h4 {
-  color: var(--color2);
+  color: #265D11;
   
  
 }
 
 p{
-  color: var(--color1);
+  color:#288BA8;
 }
 
 li{
-  color: var(--color1) ;
+  color: #288BA8;
 }
 
 blockquote{
-  border-left: solid 10px  var(--color2);
+  border-left: solid 10px #265D11;
   padding-left: 12px;
 }
 
@@ -68,8 +68,8 @@ main{
 }
 
 span {
-  color: var(--color4);
-  background: var(--color1);
+  color: #43C6AC;
+  background: #288BA8;
   margin: 10px;
   padding: 10px;
 
