@@ -9,3 +9,8 @@ A web project to experiment with CSS typography.
 - Tyography
 - Box Model 
 - CSS Variables
+
+
+## Citations
+
+[Wikipedia] (https://en.wikipedia.org/wiki/Apple_Park)

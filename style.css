@@ -12,6 +12,7 @@
   --color2: #265D11;
   --color3: #DA89BE;
   --color4: #43C6AC;
+  --color5: #1d3c46;
   --primaryfont: "Rubik", sans-serif;
 }
 
@@ -48,7 +49,7 @@ h4 {
 }
 
 p{
-  color:#288BA8;
+  color:#1d3c46;
 }
 
 li{
@@ -58,6 +59,7 @@ li{
 blockquote{
   border-left: solid 10px #265D11;
   padding-left: 12px;
+  color:#1d3c46
 }
 
 main{
@@ -85,7 +87,7 @@ main {
 
 /* Child */
 h1 {
-  background: var(--color4);
+  background: #43C6AC ;
   padding: 4px;
   top:18px;
   left: 0;
